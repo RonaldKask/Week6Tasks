@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Week6Tasks\RealTask2\bin\Debug\netcoreapp3.1\RealTask2.exe
+C:\Users\opilane\source\repos\Week6Tasks\RealTask2\bin\Debug\netcoreapp3.1\RealTask2.deps.json
+C:\Users\opilane\source\repos\Week6Tasks\RealTask2\bin\Debug\netcoreapp3.1\RealTask2.runtimeconfig.json
+C:\Users\opilane\source\repos\Week6Tasks\RealTask2\bin\Debug\netcoreapp3.1\RealTask2.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Week6Tasks\RealTask2\bin\Debug\netcoreapp3.1\RealTask2.dll
+C:\Users\opilane\source\repos\Week6Tasks\RealTask2\bin\Debug\netcoreapp3.1\RealTask2.pdb
+C:\Users\opilane\source\repos\Week6Tasks\RealTask2\obj\Debug\netcoreapp3.1\RealTask2.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Week6Tasks\RealTask2\obj\Debug\netcoreapp3.1\RealTask2.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Week6Tasks\RealTask2\obj\Debug\netcoreapp3.1\RealTask2.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Week6Tasks\RealTask2\obj\Debug\netcoreapp3.1\RealTask2.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Week6Tasks\RealTask2\obj\Debug\netcoreapp3.1\RealTask2.dll
+C:\Users\opilane\source\repos\Week6Tasks\RealTask2\obj\Debug\netcoreapp3.1\RealTask2.pdb
+C:\Users\opilane\source\repos\Week6Tasks\RealTask2\obj\Debug\netcoreapp3.1\RealTask2.genruntimeconfig.cache
